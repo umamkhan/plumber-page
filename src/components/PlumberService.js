@@ -17,7 +17,7 @@ const PlumberService = () => {
     </div>
     <div className='flex justify-center items-center'>
     
-    <FontAwesomeIcon icon={faStar} />
+    <FontAwesomeIcon className='text-2xl' icon={faStar} />
     <h1 className='text-2xl'>4.7 (6.3M booking)</h1>
     </div>
    
